@@ -1,0 +1,9 @@
+[18-Nov-2017 12:49:21 UTC] PHP Warning:  Illegal string offset 'ticket_price' in /home/demo/public_html/film/wp-content/themes/unite-child/content-single.php on line 33
+[18-Nov-2017 12:49:21 UTC] PHP Warning:  Illegal string offset 'ticket_price' in /home/demo/public_html/film/wp-content/themes/unite-child/content-single.php on line 37
+[18-Nov-2017 12:49:21 UTC] PHP Warning:  Illegal string offset 'ticket_price' in /home/demo/public_html/film/wp-content/themes/unite-child/content-single.php on line 42
+[18-Nov-2017 13:02:13 UTC] PHP Catchable fatal error:  Object of class WP_Term could not be converted to string in /home/demo/public_html/film/wp-content/themes/unite-child/content-single.php on line 38
+[18-Nov-2017 13:03:32 UTC] PHP Catchable fatal error:  Object of class WP_Term could not be converted to string in /home/demo/public_html/film/wp-content/themes/unite-child/content-single.php on line 38
+[18-Nov-2017 13:04:42 UTC] PHP Fatal error:  Call to a member function WP_Term() on a non-object in /home/demo/public_html/film/wp-content/themes/unite-child/content-single.php on line 28
+[18-Nov-2017 13:06:25 UTC] PHP Fatal error:  Call to undefined method WP_Term::WP_Term() in /home/demo/public_html/film/wp-content/themes/unite-child/content-single.php on line 38
+[18-Nov-2017 13:06:28 UTC] PHP Fatal error:  Call to undefined method WP_Term::WP_Term() in /home/demo/public_html/film/wp-content/themes/unite-child/content-single.php on line 38
+[18-Nov-2017 13:07:24 UTC] PHP Fatal error:  Call to undefined method WP_Term::WP_Term() in /home/demo/public_html/film/wp-content/themes/unite-child/content-single.php on line 38
